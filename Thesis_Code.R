@@ -1,5 +1,3 @@
-setwd("C:/Users/apalm/Documents/GitHub/Document-clustering-techniques-comparative-analysis-and-development-of-a-novel-approach")
-
 ##### Package used during the thesis ####
 library(future.apply);library(tm);library(topicmodels)
 library(parallel);library(doParallel);library(quanteda);library(seededlda)
